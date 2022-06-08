@@ -1,5 +1,5 @@
 # Projeto06
-Comunicação porta serial com o uso de protocolo para monitor e controlar motores e exaustores
+Comunicação porta serial com o uso de protocolo para monitorar e controlar motores e exaustores
 <div>
 Camada visual:
 <div>
